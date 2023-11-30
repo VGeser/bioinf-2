@@ -1,0 +1,8 @@
+
+>q|abcd.pdb:A|test_0cbef_unrelaxed_rank_001_alphafold2_ptm_model_5_seed_000.pdb:A 
+-mveyfgqnlngflftknawvqsygtrcvkppivwgdvsranpitvewsayaqsktdhvmkgmltgpvti
+lnwswprediTHEEQTKQLALAIRDEVLDLe
+
+>t|test_0cbef_unrelaxed_rank_001_alphafold2_ptm_model_5_seed_000.pdb:A|abcd.pdb:A 
+mveyfgqnlngflftknawvqsygtrcvkppivwgdvsranpitvewsayaqsktdhvmkgmltgpvtil
+nwswpreditHEEQTKQLALAIRDEVLDLE-
